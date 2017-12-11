@@ -10,7 +10,6 @@ click==6.7
 docutils==0.14
 Flask==0.12.2
 Flask-Debug==0.4.3
-Flask-WebSub==0.2.1
 gunicorn==19.7.1
 idna==2.6
 inflection==0.3.1
